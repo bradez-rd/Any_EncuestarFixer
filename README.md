@@ -1,5 +1,6 @@
 # Any_EncuestarFixer
-fix encuestas para any site
+fix encuestas para algunas paginas
+
 ## Mini tutorial para usarlo en Chrome
 
 1. **Instala Tampermonkey en Chrome**  
