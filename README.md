@@ -1,10 +1,19 @@
 # Any_EncuestarFixer
+¿Te pasó abrir un enlace y encontrarte con encuestas molestas que te hacen perder tiempo? 😒
 
-Fix para eliminar encuestas molestas en muchas páginas.
+Hoy les presento **Any_EncuestarFixer**, un proyecto **opensource** pensado para eliminar esa fricción y hacer todo más simple. 😎
+
+🔧 **SCRIPT:** https://github.com/bradez-rd/Any_EncuestarFixer/
+🎥 **TUTORIAL:** https://www.youtube.com/watch?v=5pvnrdldML8
+
+Si te gustan los proyectos que de verdad te ahorran tiempo, este te va a interesar.
+
+Y ya que estás por acá, **seguime que cuesta 0 pesos** 👀
+👉 https://www.instagram.com/bradez__rd/
 
 ---
 
-## Mini tutorial para usarlo en Chrome
+## Mini tutorial para usarlo en Chrome 
 
 1. **Instala Tampermonkey en Chrome**  
    Ve a la Chrome Web Store, busca **Tampermonkey** y agrégalo al navegador.
