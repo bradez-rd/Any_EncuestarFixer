@@ -4,6 +4,7 @@
 Hoy les presento **Any_EncuestarFixer**, un proyecto **opensource** pensado para eliminar esa fricción y hacer todo más simple. 😎
 
 🔧 **SCRIPT:** https://github.com/bradez-rd/Any_EncuestarFixer/
+
 🎥 **TUTORIAL:** https://www.youtube.com/watch?v=5pvnrdldML8
 
 Si te gustan los proyectos que de verdad te ahorran tiempo, este te va a interesar.
