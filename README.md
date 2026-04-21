@@ -63,15 +63,7 @@ El autor no garantiza:
 - Ausencia de errores
 - Protección ante bloqueos o cambios externos
 
-No se recomienda usar esta herramienta para:
-
-- Manipular métricas
-- Alterar votos o reputación
-- Saltar restricciones sin permiso
-- Automatización abusiva o masiva
-- Incumplir reglas de terceros
-
-El uso indebido recae exclusivamente en quien ejecuta el script.
+*El uso indebido recae exclusivamente en quien ejecuta el script.*
 
 > Si activas modo RANDOM y explota algo... fue estadística.
 
